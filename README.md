@@ -16,3 +16,5 @@ The R script, [run_analysis.R](../master/run_analysis.R), does the following:
 11. Creates a tidy dataset that consists of the mean value of each variable for each subject and activity pair.
 
 The end result is shown in the file [tidy.txt](../master/tidy.txt).
+
+You can read about the variable names in [tidy.txt](../master/tidy.txt) in the [Code Book](../master/CodeBook.md)
