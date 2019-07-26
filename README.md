@@ -10,7 +10,7 @@ The R script, [run_analysis.R](../master/run_analysis.R), does the following:
 5. Loads the training data, labels, and subjects; then column bind them together, but only the data from the proper rows that were found above
 6. Loads the test data, labels, and subjects; then column bind them together, but only the data from the proper rows that were found above
 7. Merges the training and test datasets into one dataset called "completeData"
-8. Transforms both teh "completeData" and the "activitylabels" datasets into tables
+8. Transforms both the "completeData" and the "activitylabels" datasets into tables
 9. Sets join keys using `setkey` in order to join these two datasets together on the "activityindex" column
 10. Joins the two datasets into one dataset called "result" 
 11. Creates a tidy dataset that consists of the mean value of each variable for each subject and activity pair.
