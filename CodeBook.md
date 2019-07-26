@@ -126,7 +126,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 File output
 -----------
-Once the [run_analysis.R](../blob/master/run_analysis.R) script is run and the [tidy.txt](../blob/master/tidy.txt) file is created, the following fields remain:
+Once the [run_analysis.R](../master/run_analysis.R) script is run and the [tidy.txt](../master/tidy.txt) file is created, the following fields remain:
 
 ## Identifiers
 
